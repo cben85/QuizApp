@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+
+    <string name="question1">"In which country is murderous revenge permitted?"</string>
+    <string name="answer_1_a">Hong Kong</string>
+    <string name="answer_1_c">USA</string>
+    <string name="answer_1_d">Somalia</string>
+    <string name="answer_1_b">In no country</string>
+    <string name="answer1_correct">Great, your answer is right. The Hong Kong law allows divorced wifes to kill their husbands with bare hands and without weapons!</string>
+    <string name="answer1_wrong">Unfortunately wrong. The correct answer is "Hong Kong". The law allows divorced wifes to kill their husbands with bare hands and without weapons!
+</string>
+
+    <string name="question2">"Which country passed a law in 2000 prohibiting it from eating its own pet?"</string>
+    <string name="answer_2_a">China</string>
+    <string name="answer_2_c">Japan</string>
+    <string name="answer_2_d">Denmark</string>
+    <string name="answer_2_b">Russia</string>
+    <string name="answer2_correct">Yep. The Russian Parliament passed a law in 2000 prohibiting pet owners from eating their pets.</string>
+    <string name="answer2_wrong">Nope. That\'s russian law. The Russian Parliament passed a law in 2000 prohibiting pet owners from eating their pets.</string>
+
+
+
+    <string name="question3">"In which country can you not give your pig the first name of a historical person?"</string>
+    <string name="answer_3_a">Russia \"Vladimir\"</string>
+    <string name="answer_3_b">Germany \"Adolf\"</string>
+    <string name="answer_3_c">France \"Napoleon\"</string>
+    <string name="answer_3_d">England \"Elisabeth\"</string>
+    <string name="answer3_correct">Qui! In France it is forbidden by law to give a pig the name "Napoleon".</string>
+    <string name="answer3_wrong">Non! Ce n\'est pas correct. In France it is forbidden by law to give a pig the name \"Napoleon\".</string>
+
+
+    <string name="question4">"In what country can you not save drowning people?"</string>
+    <string name="answer_4_a">North Korea</string>
+    <string name="answer_4_b">China</string>
+    <string name="answer_4_c">Ireland</string>
+    <string name="answer_4_d">USA</string>
+    <string name="answer4_correct">Correct! In China, drowning people must not be rescued because this would be an intervention in their fate.</string>
+    <string name="answer4_wrong">Nope. In China, drowning people must not be rescued because this would be an intervention in their fate.</string>
+
+
+    <string name="question5">Which statements about North Korea are correct?</string>
+    <string name="answer_5_a">The illiteracy rate is 0 percent.</string>
+    <string name="answer_5_b">The illiteracy rate is 50 percent.</string>
+    <string name="answer_5_c">North Korea took part in the 2010 World Cup and scored a goal against Brazil</string>
+    <string name="answer_5_d">North Korea did not participate in the 2010 World Cup and did not score a goal against Brazil</string>
+    <string name="answer5_correct_I">That\'s right, There are no illiterates in North Korea.</string>
+    <string name="answer5_wrong_I">Wrong. There are no illiterates in North Korea.</string>
+    <string name="answer5_correct_II">Correct :)</string>
+    <string name="answer5_wrong_II">Wrong</string>
+
+
+    <string name="show_my_results">Show my Quizresults</string>
+    <string name="question_6">If you\’ll pardon my</string>
+    <string name="answer6_sentence">If you\’ll pardon my French</string>
+    <string name="question_6_header">Can you finish the sentence?</string>
+    <string name="answer_6_correct">Great! This is an informal apology for the use of profane, swear or taboo words.</string>
+    <string name="answer_6_wrong">Nope. If you’ll pardon my French. This is an informal apology for the use of profane, swear or taboo words.</string>
+    <string name="show_answer">Show Answer</string>
+
+</resources>
